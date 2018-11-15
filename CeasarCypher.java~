@@ -1,0 +1,22 @@
+import java.util.*; 
+import java.io.*; 
+
+public class CeasarCypher
+{
+  String orgMsg;
+  int x;
+  int y;
+  int k;
+  int n = 0;
+  public string getMessage(){
+  Scanner kbReader = new Scanner(System.in);
+  orgMsg = kbReader.nextLine();
+  return orgMsg;
+  }
+  
+  public int scramble()
+  {
+  
+  
+  }
+}
